@@ -1,1 +1,2 @@
 line1 of the file/nline 2 of the file
+line3 of the file
